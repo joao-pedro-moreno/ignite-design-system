@@ -1,5 +1,5 @@
 {
-  "name": "@jpmoreno/tokens",
+  "name": "@jpmoreno/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@jpmoreno/tokens": "*",
     "@jpmoreno/ts-config": "*",
     "@jpmoreno/eslint-config": "*",
+    "tsc": "^2.0.4",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }
